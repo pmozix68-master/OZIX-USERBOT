@@ -1,8 +1,8 @@
 {
-    "name": "Romeo-Userbot",
+    "name": "Ozix-Userbot",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/TITENOXD/Romeo-UserBot",
+    "repository": "https://github.com/pmozix68-master/OZIX-USERBOT",
   "stack": "container",
     "env": {
         "STRING_SESSION": {
