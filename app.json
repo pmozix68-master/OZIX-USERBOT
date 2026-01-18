@@ -2,7 +2,7 @@
     "name": "Ozix-Userbot",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/pmozix68-master/OZIX-USERBOT",
+    "repository": "https://github.com/pmozix68-master/OZIX-USERBOT.git",
   "stack": "container",
     "env": {
         "STRING_SESSION": {
@@ -12,12 +12,12 @@
         "SUDO_USERS": {
             "description": "Fill there your I'd go to @MissRose_bot pm and type /id",
             "required": true,
-            "value": "7191949949"
+            "value": "7088510448"
         },
         "OWNER_ID": {
             "description": "Fill there your I'd go to @MissRose_bot pm and type /id",
             "required": true,
-            "value": "7191949949"
+            "value": "7088510448"
         },
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
